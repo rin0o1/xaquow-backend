@@ -1,0 +1,4 @@
+venv
+.venv
+machine_learning/RF_model
+machine_learning/RF_model_no_SM
